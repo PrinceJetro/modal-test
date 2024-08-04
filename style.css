@@ -1,5 +1,5 @@
 body {
-    background-color: purple;
+    background-color: blueviolet;
     background-image: url("https://getwallpapers.com/wallpaper/full/2/8/1/1090015-download-free-purple-color-background-2560x1440-computer.jpg");
     font-family: "Angkor", serif;
     font-weight: 400;
@@ -66,7 +66,7 @@ button {
     margin-bottom: 5px;
 }
 .form-group input {
-    width: 50%;
+    width: 100%;
     padding: 8px;
     box-sizing: border-box;
 }
